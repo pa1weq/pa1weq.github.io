@@ -9,7 +9,7 @@
 
 <div class="nav">
 <div>
-![99c7c6e67b807920c17ad9252e2026bf-my-melody-hello-kitty](https://user-images.githubusercontent.com/114472646/207265913-46ca660e-ef08-43e3-ad54-badec8a3c7e2.jpg)
+<img src="7b807920c17ad9252e2026bf-my-melody-hello-kitty.jpg" />
 </div>
  
 <div>
