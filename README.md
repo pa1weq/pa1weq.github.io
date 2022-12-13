@@ -9,7 +9,7 @@
 
 <div class="nav">
 <div>
-<img src="7b807920c17ad9252e2026bf-my-melody-hello-kitty.jpg" />
+<img src="7b807920c17ad9252e2026bf-my-melody-hello-kitty.jpg">
 </div>
  
 <div>
